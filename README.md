@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 my name is Brian Albright
 
-<!--
-**bmalbright/bmalbright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently looking for work as a web developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m working on reinforcing the knowledge I learned in the Full Stack Coding Bootcamp at UT Austin by refactoring projects from the bootcamp in React. 
+
+- 👯 I’m looking to collaborate on projects that will further the learning process and/or keep my skills up to speed. If I can do that while doing some good like helping a non-profit, all the better. 
+
+- 📫 How to reach me: brian@ondeckconsulting.net
+
+
+- 😄 Pronouns: Oh Captain, My Captain
+- ⚡ Fun fact: If I'm not at my computer, I'm probably at the park walking Coli and Fiona. 
+
