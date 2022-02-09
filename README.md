@@ -9,7 +9,5 @@
 
 - 📫 How to reach me: brian@ondeckconsulting.net
 
-
-- 😄 Pronouns: Oh Captain, My Captain
-- ⚡ Fun fact: If I'm not at my computer, I'm probably at the park walking Coli and Fiona. 
+- ⚡ Fun fact: If I'm not at my computer, I'm probably at the park walking Fiona. 
 
